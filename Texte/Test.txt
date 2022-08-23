@@ -1,7 +1,3 @@
 Bonjour,
-<<<<<<< HEAD
 Je m'appelle Pepito della Caramba
-=======
-Je m'appelle Pepito
->>>>>>> Modif_fichier
 Et je suis le plus beau
